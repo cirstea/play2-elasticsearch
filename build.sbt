@@ -5,7 +5,7 @@ import scala.Some
 
 name := "play2-elasticsearch"
 
-version := "2.5.13"
+version := "2.5.14"
 
 // DO NOT include a top-level directory in the outputting tgz file
 topLevelDirectory := None
